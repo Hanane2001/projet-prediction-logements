@@ -1,0 +1,22 @@
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Variables d'environnement
+.env
+
+# Logs
+logs/
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# Système
+.DS_Store
+Thumbs.db
